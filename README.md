@@ -75,7 +75,8 @@
                         🧰
             </td>
             <td>2023-11-15</td>
-            <td>多模型，支持 GPT4 文件 </td>
+            <td>多模型，支持 GPT4 文件 
+</td>
         </tr>
         <tr>
             <td>2</td>
@@ -1990,7 +1991,8 @@
                         💪
             </td>
             <td>2023-05-17</td>
-            <td>GPT4 的兑换码：TRYGPT4</td>
+            <td>GPT4 的兑换码：TRYGPT4
+</td>
         </tr>
         <tr>
             <td>177</td>
@@ -2270,7 +2272,8 @@
                         🔒
             </td>
             <td>2023-11-26</td>
-            <td>发布页 https://fby.xiamis.xyz/</td>
+            <td>发布页 https://fby.xiamis.xyz/
+</td>
         </tr>
         <tr>
             <td>202</td>
